@@ -1,0 +1,24 @@
+.aboutMain{
+  background: url(../../assets/woman-cooking.jpg);
+  background-size: cover;
+  background-position: center 40%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: black;
+
+}
+
+
+.aboutMain h2 {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Optional text shadow for better readability */
+}
+
+.aboutMain p {
+  text-shadow: 1px 1px 2px rgba(170, 170, 170, 0.566); /* Optional text shadow for better readability */
+  background-color: #1b1b1b;
+  padding: 50px;
+}
+
+.aboutMain a:hover {
+  background-color: #FF4B4B; /* Slightly darker shade for hover effect */
+}
